@@ -16,3 +16,7 @@ So, I made this application that specializes in operating FM modulation.
 
 for more infomation (Japanese):   
 http://blog.nomulabo.com/article/473701821.html
+
+@author : 7M4MON  
+@date : 2021.Jan.4  
+@license : MIT  
