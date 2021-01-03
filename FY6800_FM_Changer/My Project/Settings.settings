@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="lastModFreq" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1000</Value>
+    </Setting>
+    <Setting Name="lastDevFreq" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1500</Value>
+    </Setting>
+    <Setting Name="lastCh1Ampl" Type="System.Decimal" Scope="User">
+      <Value Profile="(Default)">2.48</Value>
+    </Setting>
+    <Setting Name="lastCh1Freq" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">450000</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
