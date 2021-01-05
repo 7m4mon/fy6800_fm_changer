@@ -2,6 +2,10 @@
 
 FM Modulation Controller for Feeltech FY6800 Signal Generator
 
+![](https://github.com/7m4mon/fy6800_fm_changer/blob/main/FY6800_FM_SET.png)
+
+![](https://github.com/7m4mon/fy6800_fm_changer/blob/main/FY6800.jpg)
+
 The procedure for setting the source to CH2 with FM modulation is as follows.  
 * Select FM in Modulation Mode
 * Set Source to CH2
@@ -17,6 +21,6 @@ So, I made this application that specializes in operating FM modulation.
 for more infomation (Japanese):   
 http://blog.nomulabo.com/article/473701821.html
 
-@author : 7M4MON  
+@author : 7M4MON https://github.com/7m4mon 
 @date : 2021.Jan.4  
 @license : MIT  
